@@ -1,0 +1,12 @@
+---
+title: "Part 2. Wild Data"
+format: html
+editor: visual
+---
+
+```{r}
+library(tidyverse)
+library(here)
+library(janitor)
+```
+
